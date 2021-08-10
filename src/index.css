@@ -1,8 +1,13 @@
 * {
   box-sizing: border-box;
 }
-html, body {margin: 0; padding: 0;}
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
 body {
   background: linear-gradient(to bottom left, #0ff, #00f);
+  /* background: linear-gradient(to bottom left, rgb(51, 243, 3), rgb(61, 80, 56)); */
   min-height: 100vh;
 }
